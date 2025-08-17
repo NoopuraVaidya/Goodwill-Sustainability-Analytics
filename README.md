@@ -11,10 +11,10 @@ It provides insights into donation patterns, landfill diversion, and environment
 ## Preview (Screenshots)
 
 ### Donation Insights
-![Donation Insights](images/donation_insights.png)
+![Donation Insights](donation_insights.png)
 
 ### Environmental Impact
-![Environmental Impact](images/environmental_impact.png)
+![Environmental Impact](environmental_impact.png)
 
 ## Methods & Tools
 - Data Cleaning & Processing: Python (Pandas, NumPy)  
