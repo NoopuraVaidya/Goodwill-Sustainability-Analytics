@@ -1,0 +1,43 @@
+# Sustainability Analytics Framework for Goodwill
+
+## Project Overview
+This project focuses on building a **Sustainability Analytics Framework** for Goodwill, aimed at tracking donations, measuring environmental impact, and forecasting sustainability outcomes. The analysis emphasizes how donations contribute to **CO₂ emission reduction, landfill diversion, and sustainable operations**.
+
+## Methodology
+
+### 1. Data Collection
+- Donation and store sustainability data were obtained from Goodwill records.
+- Key variables included donation volumes, item categories, and environmental factors such as CO₂ emissions saved and landfill diversion rates.
+
+### 2. Data Preparation
+- Cleaned missing and inconsistent records.
+- Standardized formats for dates, store IDs, and donation categories.
+- Aggregated store-level metrics to generate sustainability KPIs.
+
+### 3. Metrics Defined
+- **CO₂ Emissions Saved** – Estimated based on item category and material lifecycle.
+- **Landfill Diversion** – Volume of items prevented from entering landfills.
+- **Donation Volume Trends** – Time-series analysis of donations by store.
+
+### 4. Dashboard Development
+- **Tableau** was used to create interactive dashboards:
+  - [Donation Insights Dashboard](https://public.tableau.com/app/profile/noopura.vaidya/viz/DonationInsights_GoodwillStores/DONATIONINSIGHTSSUSTAINABILITYDASHBOARD)
+  - [Environmental Impact Dashboard](https://public.tableau.com/app/profile/noopura.vaidya/viz/Environmentalmpact_GoodwillStores/Dashboard1)
+
+### 5. Machine Learning Exploration
+- Conducted experiments in **IBM SPSS Modeler** to explore:
+  - Predictive modeling of donation volumes.
+  - Identifying sustainability drivers at store-level.
+- Code files are not included, but the approach is documented in the final report.
+
+## Business Impact
+- Provides Goodwill with **data-driven insights** into sustainability.
+- Supports **resource allocation and operational efficiency**.
+- Demonstrates environmental stewardship to stakeholders.
+
+## Repository Contents
+- `README.md` – Project overview with visuals and Tableau links.
+- `ANALYTICS_APPROACH.md` – Methodology and approach (this file).
+- `Project_Report.pdf` – Detailed project documentation.
+- `images/` – Screenshots of dashboards and insights.
+
